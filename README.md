@@ -19,7 +19,6 @@ print(f"Hi, I'm {me.name}, a {me.occupation}!")
 [[Instagram]](https://www.instagram.com/henrique_reinaldi)
 [[LinkedIn]](https://www.linkedin.com/in/henrique-reinaldi-4aa720364/)
 [[Youtube]](https://www.youtube.com/@HenriqueReinaldi)
-[[Discord]](carlosdealmeid)
 
 <h2></h2>
 </div>
