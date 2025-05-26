@@ -1,23 +1,16 @@
 
-```python
-class Henrique:
-    def __init__(self):
-        self.name = "Henrique"
-        self.occupation = "computer science student"
-    
-me = Henrique()
-print(f"Hi, I'm {me.name}, a {me.occupation}!")
-```
 
 
 <div align="center">
     
-## <kbd>[Instagram](https://www.instagram.com/henrique_reinaldi)</kbd> <kbd>[LinkedIn](https://www.linkedin.com/in/henrique-reinaldi-4aa720364/)</kbd> <kbd>[Youtube](https://www.youtube.com/@HenriqueReinaldi)</kbd>
+### I'm a computer science student:
+    
+# <kbd>[Instagram](https://www.instagram.com/henrique_reinaldi)</kbd> <kbd>[LinkedIn](https://www.linkedin.com/in/henrique-reinaldi-4aa720364/)</kbd> <kbd>[YouTube](https://www.youtube.com/@HenriqueReinaldi)</kbd>
 </div>
 
-* [Skendel](https://github.com/HenriqF/skendel) - Analisador de textos
-* [Jogo da Snake game](https://github.com/HenriqF/Jogo-da-Snake-game) - Jogo da cobra
-* [Code Fixer](https://github.com/HenriqF/PythonCodeFixer) - Conserta códigos python
+* [Skendel](https://github.com/HenriqF/skendel) - Text analiser
+* [Jogo da Snake game](https://github.com/HenriqF/Jogo-da-Snake-game) - Snake game
+* [Code Fixer](https://github.com/HenriqF/PythonCodeFixer) - Python code fixer
 
 
 </div>
