@@ -3,7 +3,6 @@
 class Henrique:
     def __init__(self):
         self.name = "Henrique"
-        self.langs = ["Python","C++","C","Go","Java"] 
         self.occupation = "computer science student"
     
 me = Henrique()
