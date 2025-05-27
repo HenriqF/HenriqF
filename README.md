@@ -9,8 +9,8 @@
 </div>
 
 * [Skendel](https://github.com/HenriqF/skendel) - Text analiser
-* [Jogo da Snake game](https://github.com/HenriqF/Jogo-da-Snake-game) - Snake game
 * [Code Fixer](https://github.com/HenriqF/PythonCodeFixer) - Python code fixer
+* [Jogo da Snake game](https://github.com/HenriqF/Jogo-da-Snake-game) - Snake game
 
 
 </div>
