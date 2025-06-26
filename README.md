@@ -5,7 +5,7 @@
     
 ### I'm a computer science student
     
-# <kbd>[Instagram](https://www.instagram.com/henrique_reinaldi)</kbd> <kbd>[LinkedIn](www.linkedin.com/in/henrique-de-figueiredo-reinaldi-4aa720364)</kbd> <kbd>[YouTube](https://www.youtube.com/@HenriqueReinaldi)</kbd>
+# <kbd>[Instagram](https://www.instagram.com/henrique_reinaldi)</kbd> <kbd>[LinkedIn](www.linkedin.com/in/henrique-reinaldi-4aa720364)</kbd> <kbd>[YouTube](https://www.youtube.com/@HenriqueReinaldi)</kbd>
 </div>
 
 * [Skendel](https://github.com/HenriqF/skendel) - .txt analiser
