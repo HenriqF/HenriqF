@@ -1,7 +1,7 @@
 
 <div>
     
-### I generate enough momentum and get the crimp... "KRRRR" whtat a glorious sound! This sound marks a change of the rythm aswell as relief since the low percentage part is over. The lion in me wakes up a little bit.
+### I generate enough momentum and get the crimp... "KRRRR" what a glorious sound! This sound marks a change of the rythm aswell as relief since the low percentage part is over. The lion in me wakes up a little bit.
 
 </div>
 <details>
